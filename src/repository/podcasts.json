@@ -1,8 +1,14 @@
 [
     {
-        "podCastName": "Flow",
+        "podCastName": "flow",
         "episode": "SEREMOS EXTINTOS PELA INTELIGÊNCIA ARTIFICIAL?",
         "videoId": "v=g-1ZLqvRvrg",
         "categories": ["saúde", "esporte"]
+    },
+     {
+        "podCastName": "nerd",
+        "episode": "Capitão América",
+        "videoId": "v=g-1ZLqvRvrg",
+        "categories": ["Anime", "esporte"]
     }
 ]

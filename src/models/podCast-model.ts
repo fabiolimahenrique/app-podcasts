@@ -1,4 +1,4 @@
-export interface PodCast {
+export interface PodCastModel {
   podCastName: string;
   episode: string;
   videoId: string;
