@@ -5,7 +5,6 @@
 <h2>🛠 Tecnologias Utilizadas</h2>
 
 <ul>
-    <li>IDE VSCode</li>
 	<li>Node</li>
     <li>JavaScript</li>
 	<li>typescript</li>
